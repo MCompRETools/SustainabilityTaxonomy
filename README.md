@@ -1,4 +1,4 @@
-This repository contains **SUPPLMENTARY materials** for manuscript- **Towards a Taxonomy of Sustainability Requirements for Software Design**. Submitted in 10th GREENS Workshop.
+This repository contains **SUPPLMENTARY materials** for the manuscript- **Towards a Taxonomy of Sustainability Requirements for Software Design**. Submitted in 10th GREENS Workshop.
 
 
 **Categories & Metrics document**- It provides the identified list of categories and metrics, along with references.
